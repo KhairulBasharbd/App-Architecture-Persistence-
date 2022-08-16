@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/App_Architecture_(Persistence).iml" filepath="$PROJECT_DIR$/.idea/modules/App_Architecture_(Persistence).iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/App_Architecture_(Persistence).app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/App_Architecture_(Persistence).app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/App_Architecture_(Persistence).app.androidTest.iml" filepath="$PROJECT_DIR$/.idea/modules/app/App_Architecture_(Persistence).app.androidTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/App_Architecture_(Persistence).app.main.iml" filepath="$PROJECT_DIR$/.idea/modules/app/App_Architecture_(Persistence).app.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/App_Architecture_(Persistence).app.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/app/App_Architecture_(Persistence).app.unitTest.iml" />
+    </modules>
+  </component>
+</project>
